@@ -1,4 +1,8 @@
+# Moeda: Cara ou Coroa.
+
 import random
+
+print("Olá! O programa irá lançar 'Cara' e 'Coroa' até sair 'Cara' três vezes seguidas.\n")
 
 caras = 0
 
